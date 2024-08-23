@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+a stopwatch that allows you to see how much time has passed, capture moments, stop time and reset. This app was made with React.js
 
 ### `npm start`
 
